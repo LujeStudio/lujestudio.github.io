@@ -1,6 +1,7 @@
 		body {
 		  background: black;
 		  font-family: 'Fira Sans Extra Condensed', impact, arial;
+	          letter-spacing: 0.05em;
           	  font-size: 140px;
 		  padding: 20px;
 		}
